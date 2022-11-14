@@ -17,3 +17,8 @@ Write technical content related to Hasura or GraphQL and they will pay you 300$ 
 Program name: Write for Hygraph
 Write content on Hygraph, GraphQL, or other frameworks that could help developers learn?
 [Program Link 💲](https://hygraph.com/write-for-hygraph)
+
+## [Twilio](https://www.twilio.com/)
+Program name: Twilio Developer Voices
+BECOME A BETTER SOFTWARE DEVELOPER AND WRITER BY CONTRIBUTING PROGRAMMING TUTORIALS FOR THE TWILIO BLOG.
+[Program Link 💲](https://www.twilio.com/voices)
