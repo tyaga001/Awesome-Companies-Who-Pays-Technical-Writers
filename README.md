@@ -12,3 +12,8 @@ They pay anywhere between $200-$400 for content created (video, templates, blog 
 Program name: The Hasura Technical Writer Program.
 Write technical content related to Hasura or GraphQL and they will pay you 300$ for each post published.
 [Program Link 💲](https://hasura.io/blog/the-hasura-technical-writer-program/)
+
+## [Hygraph](https://hygraph.com/)
+Program name: Write for Hygraph
+Write content on Hygraph, GraphQL, or other frameworks that could help developers learn?
+[Program Link 💲](https://hygraph.com/write-for-hygraph)
