@@ -22,3 +22,10 @@ Write content on Hygraph, GraphQL, or other frameworks that could help developer
 Program name: Twilio Developer Voices
 BECOME A BETTER SOFTWARE DEVELOPER AND WRITER BY CONTRIBUTING PROGRAMMING TUTORIALS FOR THE TWILIO BLOG.
 [Program Link 💲](https://www.twilio.com/voices)
+
+## [Ambassador Labs](https://www.getambassador.io/)
+Program name: Program name: Twilio Developer Voices
+Help thousands of cloud native developers excel in their jobs while also improving your writing skills. 
+You will be paid $300 once your article has been published.
+[Program Link 💲](https://www.getambassador.io/write-for-us/)
+
