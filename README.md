@@ -40,5 +40,13 @@ Program name: Write for Civo
 Write a tutorial or how-to guide at Civo and get paid. When your tutorial or guide is approved, edited, and published, you could earn up to $500.
 [Program Link 💲](https://www.civo.com/write-for-us)
 
+## [Vonage](https://learn.vonage.com/)
+Program name: Developer Spotlight
+
+Goal: They want to see what you're doing with Vonage’s products, and they want you to share your story with the community.
+[Program Link 💲](https://learn.vonage.com/spotlight/)
+ 
+ 
+
 
 
