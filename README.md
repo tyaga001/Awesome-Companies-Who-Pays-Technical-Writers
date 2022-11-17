@@ -24,8 +24,15 @@ BECOME A BETTER SOFTWARE DEVELOPER AND WRITER BY CONTRIBUTING PROGRAMMING TUTORI
 [Program Link 💲](https://www.twilio.com/voices)
 
 ## [Ambassador Labs](https://www.getambassador.io/)
-Program name: Program name: Twilio Developer Voices
+Program name: Twilio Developer Voices
 Help thousands of cloud native developers excel in their jobs while also improving your writing skills. 
 You will be paid $300 once your article has been published.
 [Program Link 💲](https://www.getambassador.io/write-for-us/)
+
+## [CIVO](https://www.civo.com/)
+Program name: Write for Civo  
+Write a tutorial or how-to guide at Civo and get paid. When your tutorial or guide is approved, edited, and published, you could earn up to $500.
+[Program Link 💲](https://www.civo.com/write-for-us)
+
+
 
