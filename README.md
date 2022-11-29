@@ -46,7 +46,9 @@ Program name: Developer Spotlight
 Goal: They want to see what you're doing with Vonage’s products, and they want you to share your story with the community.
 [Program Link 💲](https://learn.vonage.com/spotlight/)
  
- 
+ ## [Digital Ocean](https://learn.vonage.com/)
+ Program name: Write for Donations
+ [Program Link 💲](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 
 
 
