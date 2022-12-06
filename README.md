@@ -57,13 +57,15 @@ Goal: They want to see what you're doing with Vonage’s products, and they want
  [Program Link 💲](https://css-tricks.com/guest-writing-for-css-tricks/)
  
  ## [Circle CI](https://circleci.com/)
- Program name: Technical Authors Program  
+ Program name: Technical Authors Program 
  
+ Get paid to write about your favorite technology topics
  [Program Link 💲](https://circleci.com/blog/technical-authors-program/)
  
  ## [Agora](https://www.agora.io/en/)
  Program name: Write for Agora  
  
+ Build your reputation and teach the Agora community.
  [Program Link 💲](https://www.agora.io/en/agora-content-contributors/)
  
  
