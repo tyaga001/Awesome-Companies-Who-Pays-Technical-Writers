@@ -49,6 +49,26 @@ Goal: They want to see what you're doing with Vonage’s products, and they want
  ## [Digital Ocean](https://learn.vonage.com/)
  Program name: Write for Donations
  [Program Link 💲](https://www.digitalocean.com/community/pages/write-for-digitalocean)
+ 
+  ## [CSS-Tricks](https://css-tricks.com/)
+ Program name: Guest Writing for CSS-Tricks 
+ 
+ $300 for most articles, payable via PayPal or DigitalOcean credit. Complex production-focused topics may be paid out up to $400. 
+ [Program Link 💲](https://css-tricks.com/guest-writing-for-css-tricks/)
+ 
+ ## [Circle CI](https://circleci.com/)
+ Program name: Technical Authors Program 
+ 
+ Get paid to write about your favorite technology topics
+ [Program Link 💲](https://circleci.com/blog/technical-authors-program/)
+ 
+ ## [Agora](https://www.agora.io/en/)
+ Program name: Write for Agora  
+ 
+ Build your reputation and teach the Agora community.
+ [Program Link 💲](https://www.agora.io/en/agora-content-contributors/)
+ 
+ 
 
 
 
