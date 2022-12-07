@@ -1,4 +1,4 @@
-# Companies-Who-Pays-Technical-Writers
+# Awesome Companies-Who-Pays-Technical-Writers
 
 
 A list of companies that have actually paid developers to write technical content.
