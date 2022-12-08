@@ -53,7 +53,7 @@ Goal: They want to see what you're doing with Vonage’s products, and they want
   ## [CSS-Tricks](https://css-tricks.com/)
  Program name: Guest Writing for CSS-Tricks 
  
- $300 for most articles, payable via PayPal or DigitalOcean credit. Complex production-focused topics may be paid out up to $400. 
+ $300 for an article, payable via PayPal or DigitalOcean credit. Complex production-focused topics may be paid out up to $400. 
  [Program Link 💲](https://css-tricks.com/guest-writing-for-css-tricks/)
  
  ## [Circle CI](https://circleci.com/)
