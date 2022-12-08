@@ -76,5 +76,10 @@ They’re looking for a diverse group of skilled writers with deep technical kno
 [Program Link 💲](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program)
 
 
+## [Storyblock](https://www.storyblok.com/)
+Program name: Storyblok Guest Technical Writing Program
 
+Their goal is to teach everyone about Storyblok and Jamstack in order to help them become better software engineers.
+[Program Link 💲](https://www.storyblok.com/tp/guest-writing-terms)
 
+## [Storyblock](https://www.storyblok.com/)
