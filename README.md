@@ -82,4 +82,8 @@ Program name: Storyblok Guest Technical Writing Program
 Their goal is to teach everyone about Storyblok and Jamstack in order to help them become better software engineers.
 [Program Link 💲](https://www.storyblok.com/tp/guest-writing-terms)
 
-## [Storyblock](https://www.storyblok.com/)
+## [Airbyte](https://airbyte.com/)
+Program name: Write for the community
+
+Share your data expertise with the community, become a better writer, and get paid.
+[Program Link 💲](https://airbyte.com/write-for-the-community)
