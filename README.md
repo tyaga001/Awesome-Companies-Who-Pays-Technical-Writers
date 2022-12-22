@@ -87,3 +87,9 @@ Program name: Write for the community
 
 Share your data expertise with the community, become a better writer, and get paid.
 [Program Link 💲](https://airbyte.com/write-for-the-community)
+
+## [LAMBDATEST](https://www.lambdatest.com/)
+Program name: LambdaTest Guest Blogger Program
+
+Inspire the testing community with your content.
+[Program Link 💲](https://www.lambdatest.com/lambdatest-write-for-us)
