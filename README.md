@@ -93,3 +93,8 @@ Program name: LambdaTest Guest Blogger Program
 
 Inspire the testing community with your content.
 [Program Link 💲](https://www.lambdatest.com/lambdatest-write-for-us)
+
+## [Medusa](https://medusajs.com/)
+Program name: Write for us
+
+[Program Link 💲](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a)
