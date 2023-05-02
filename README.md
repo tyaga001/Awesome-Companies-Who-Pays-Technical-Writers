@@ -98,3 +98,9 @@ Inspire the testing community with your content.
 Program name: Write for us
 
 [Program Link 💲](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a)
+
+## [Zenduty](https://zenduty.com/)
+Program name: Zenduty Guest Writing Program
+
+Get your articles about SRE and DevOps shared to the Zenduty Blog as a Guest Writer, and get rewarded for it.
+[Program Link 💲](https://zenduty.notion.site/zenduty/Zenduty-s-Guest-Writing-Program-d7ff8f7fae2b42329ded86ebb366ac0f)
