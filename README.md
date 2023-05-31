@@ -69,6 +69,12 @@ Goal: They want to see what you're doing with Vonage’s products, and they want
  [Program Link 💲](https://www.agora.io/en/agora-content-contributors/)
  
  
+## [SpinupWP](https://spinupwp.com/)
+Program name: SpinupWP Writers Program
+
+Get paid $500 to $1,000 per piece to write about systems administration, caching, WordPress hosting, DevOps, site deployment and other server & WordPress-related topics. New articles, update existing articles or video tutorials/walkthroughs.
+[Program Link 💲](https://spinupwp.com/writers-program/)
+
 ## [Mattermost](https://mattermost.com/)
 Program name: Community Content program
 
