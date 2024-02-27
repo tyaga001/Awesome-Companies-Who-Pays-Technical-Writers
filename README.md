@@ -100,6 +100,12 @@ Program name: LambdaTest Guest Blogger Program
 Inspire the testing community with your content.
 [Program Link 💲](https://www.lambdatest.com/lambdatest-write-for-us)
 
+## [Vultr](https://www.vultr.com/)
+Program name: Vultr Creator Program
+
+Get paid up to $800 for articles and up to $1600 for video tutorials. Sign up on [Vultr Creators Dashboard](https://creators.vultr.community) to get started.
+[Program Link 💲](https://docs.vultr.com/introduction-to-vultr-creator-program)
+
 ## [Medusa](https://medusajs.com/)
 Program name: Write for us
 
