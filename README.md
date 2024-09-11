@@ -79,6 +79,12 @@ Program name: Write for us
 
 [Program Link 💲](https://medusajs.notion.site/Write-for-us-74a2bf43b4ce43eeba200382f599321a)
 
+## [Permit.io](https://permit.io/)
+Program name: Permit.io Content Creation Program
+
+Implement Permit.io into a demo application of your choice, create a piece of content about it, and get paid $400 per published article!
+[Program Link 💲](https://io.permit.io/permit-content)
+
 ## [SpinupWP](https://spinupwp.com/)
 Program name: SpinupWP Writers Program
 
